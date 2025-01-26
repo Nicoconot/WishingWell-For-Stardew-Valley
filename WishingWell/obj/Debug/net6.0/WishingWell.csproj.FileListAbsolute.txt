@@ -1,0 +1,8 @@
+d:\StuffForSSD\My_Downloads\Stardew Mods\WishingWell\WishingWell\bin\Debug\net6.0\WISHING_WELL.deps.json
+D:\StuffForSSD\My_Downloads\Stardew Mods\WishingWell\WishingWell\bin\Debug\net6.0\WISHING_WELL.dll
+D:\StuffForSSD\My_Downloads\Stardew Mods\WishingWell\WishingWell\obj\Debug\net6.0\WishingWell.csproj.AssemblyReference.cache
+D:\StuffForSSD\My_Downloads\Stardew Mods\WishingWell\WishingWell\obj\Debug\net6.0\WishingWell.GeneratedMSBuildEditorConfig.editorconfig
+D:\StuffForSSD\My_Downloads\Stardew Mods\WishingWell\WishingWell\obj\Debug\net6.0\WishingWell.AssemblyInfoInputs.cache
+D:\StuffForSSD\My_Downloads\Stardew Mods\WishingWell\WishingWell\obj\Debug\net6.0\WishingWell.AssemblyInfo.cs
+D:\StuffForSSD\My_Downloads\Stardew Mods\WishingWell\WishingWell\obj\Debug\net6.0\WishingWell.csproj.CoreCompileInputs.cache
+D:\StuffForSSD\My_Downloads\Stardew Mods\WishingWell\WishingWell\obj\Debug\net6.0\WISHING_WELL.dll

@@ -1,0 +1,12 @@
+{
+    "wishingWell.question": "A água do poço cintila ligeiramente, como se tivesse um poder mágico. O que você gostaria de fazer?",
+    "wishingWell.alreadyGotLucky": "Parece que o seu desejo já foi realizado hoje.",
+    "wishingWell.alreadyGotUnlucky": "É só um poço, afinal.",
+    "wishingWell.choice1": "Fazer um desejo e jogar uma moeda no poço (gastar ${{wellCost}}).",    
+    "wishingWell.choice2": "Deixa pra lá.",
+    "wishingWell.throwCoin": "Você joga uma moeda no poço...",
+    "wishingWell.luckyResponse": "^Você se sente levemente mais sortudo.",
+    "wishingWell.unluckyResponse": "^Que coisa boba de se fazer!",
+    "wishingWell.buffName": "Generosidade",
+    "wishingWell.buffDescription": "Seu desejo foi realizado!"
+}

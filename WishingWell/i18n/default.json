@@ -1,0 +1,12 @@
+{
+    "wishingWell.question": "The water in the well shimmers slightly. It almost feels magical. What would you like to do?",
+    "wishingWell.alreadyGotLucky": "It seems like your wish has been granted for today.",
+    "wishingWell.alreadyGotUnlucky": "It's just a well, after all.",
+    "wishingWell.choice1": "Make a wish and throw a coin in the well (spend ${{wellCost}}).",    
+    "wishingWell.choice2": "Nevermind.",
+    "wishingWell.throwCoin": "You throw a coin in the well...",
+    "wishingWell.luckyResponse": "^You feel slightly luckier.",
+    "wishingWell.unluckyResponse": "^What a silly thing to do!",
+    "wishingWell.buffName": "Generosity",
+    "wishingWell.buffDescription": "Your wish was granted!"
+}

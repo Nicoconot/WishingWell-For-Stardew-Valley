@@ -1,0 +1,10 @@
+{
+    "Name": "Wishing Well",
+    "Author": "Nicoconot",
+    "Version": "1.1.1",
+    "Description": "Adds a wishing well functionality to the regular well, allowing you to throw a coin in for a possible luck buff once per day.",
+    "UniqueID": "nicoconot.wishingWell",
+    "EntryDll": "WISHING_WELL.dll",
+    "MinimumApiVersion": "4.0.0",
+    "UpdateKeys": ["Nexus:30701"]
+  }

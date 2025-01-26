@@ -1,0 +1,12 @@
+{
+    "wishingWell.question": "L'eau du puits scintille légèrement. C'est presque magique. Qu'aimeriez-vous faire",
+    "wishingWell.alreadyGotLucky": "Il semble que votre souhait ait été exaucé pour aujourd'hui.",
+    "wishingWell.alreadyGotUnlucky": "Ce n'est qu'un puits, finalement.",
+    "wishingWell.choice1": "Faites un vœu et jetez une pièce dans le puits (dépensez {{wellCost}}$).",    
+    "wishingWell.choice2": "Non, merci.",
+    "wishingWell.throwCoin": "Vous jetez une pièce dans le puits...",
+    "wishingWell.luckyResponse": "^Vous vous sentez un peu plus chanceux.",
+    "wishingWell.unluckyResponse": "^Quelle bêtise !",
+    "wishingWell.buffName": "Générosité",
+    "wishingWell.buffDescription": "Votre souhait a été exaucé !"
+}

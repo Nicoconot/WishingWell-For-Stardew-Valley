@@ -1,0 +1,12 @@
+{
+    "wishingWell.question": "井水微微闪烁.这几乎是一种神奇的感觉.你想要做什么?",
+    "wishingWell.alreadyGotLucky": "看来今天你的愿望实现了.",
+    "wishingWell.alreadyGotUnlucky": "毕竟这只是一口井.",
+    "wishingWell.choice1": "许愿并向井中投掷硬币(花费${{wellCost}}).",    
+    "wishingWell.choice2": "别介意.",
+    "wishingWell.throwCoin": "你往井里扔硬币...",
+    "wishingWell.luckyResponse": "你觉得自己稍微幸运了一些.",
+    "wishingWell.unluckyResponse": "多么愚蠢的做法!",
+    "wishingWell.buffName": "慷慨",
+    "wishingWell.buffDescription": "你的愿望实现了!"
+}
